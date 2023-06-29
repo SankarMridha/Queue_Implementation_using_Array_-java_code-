@@ -1,3 +1,13 @@
+/*
+Static Implementation of Queue (Array Implementation)
+A Queue is implemented statically by using an array of size MAX. The queue elements can be integers, characters,
+strings or user defined data types.
+*/
+/*
+Code is Created by Sankar Kumar Mridha, date: 29.06.2023
+*/
+
+
 import java.util.Scanner;
 
 public class QueueArray {
